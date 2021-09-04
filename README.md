@@ -1,5 +1,5 @@
 # Technophile_Bud_intern_Task1-Landing-Page
-Technophile Bud Task1-Simple landing Page using HTML,CSS only
+Technophile Bud Task1-Simple landing Page using HTML,CSS only.
 ![Landing_Page](https://user-images.githubusercontent.com/87758683/132084502-738097da-6668-4e7e-9d3b-fd21af7c2fdc.JPG)
 
 Topic: Landing Page
